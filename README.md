@@ -4,9 +4,12 @@ This repository contains standard Java programs implemented for technical interv
 
 ## Repository Structure
 
+- **Arrays/**: Element frequency tracking, finding maximum/minimum values, and mode calculation.
 - **Conversions/**: Implementations for base conversion (Binary and Decimal).
+- **Patterns/**: Hourglass and butterfly star patterns.
 - **Primes/**: Various algorithms for primality checks, cyclic primes, and list generation.
 - **SpecialNumbers/**: Implementations of mathematical properties including Armstrong, Automorphic, Harshad, and Perfect numbers.
+
 
 ## Compilation and Execution
 
