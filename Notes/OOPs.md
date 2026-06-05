@@ -15,6 +15,9 @@ Mechanism of wrapping the data (variable) and the code (method) that manipulate 
 * Private variables
 * Public getter and setter methods
 
+### Data Hiding
+Protects data from direct access. Attempting to access private members outside their class leads to a **compile-time error**, avoiding unexpected **runtime errors**.
+
 ### Inheritance
 Mechanism in which one class acquires the properties (fields) and behaviors (methods) of another class.
 The class that inherits is called the subclass or derived class and the class from which it inherits is called the superclass or base class.
@@ -30,5 +33,5 @@ The class that inherits is called the subclass or derived class and the class fr
 Poly and morph means many and form. It allows a single action to be performed in different ways depending on the object type.
 
 **Types:**
-* Compile-time polymorphism
-* Runtime polymorphism
+* **Compile-time polymorphism** - Achieved through *method overloading*.
+* **Runtime polymorphism** - Achieved through *method overriding*.

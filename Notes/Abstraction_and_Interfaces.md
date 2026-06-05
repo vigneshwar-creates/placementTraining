@@ -1,8 +1,10 @@
 # Abstraction & Interfaces
 
 ### Abstraction
-It is the way of hiding complex implementation details and showing only the essential features of the object.
+It is the concept of hiding complex implementation details and showing only the essential features of the object.
 It can be achieved using abstract classes and interfaces.
+
+**Hides complexity**: Abstraction allows programmers to focus on what the object does instead of how it does it.
 
 ### Abstract Class
 * Can have both abstract and non-abstract methods.
